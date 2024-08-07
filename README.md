@@ -65,3 +65,6 @@ Install these dependencies with:
 ```bash
 pip install django djangorestframework coreapi
 
+##Frontend
+
+No additional dependencies for plain HTML/CSS/JavaScript.
